@@ -1,0 +1,6 @@
+.GuessPegs {
+    display: flex;
+    flex-wrap: row nowrap;
+    margin: 0 30px;
+    align-items: center;
+}
